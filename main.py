@@ -1,6 +1,12 @@
+"""Main.
+
+Main
+"""
+
 def main():
-    print("Hello from fasthtmltest!")
+    """Main."""
+    print('Hello from fasthtmltest!')
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()
